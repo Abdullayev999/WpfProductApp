@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppMVVM", "WpfAppMVVM\WpfAppMVVM.csproj", "{FED52B48-1479-49DC-8B93-D1AA7CD04A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMTools", "MVVMTools\MVVMTools.csproj", "{9E455278-4128-4379-A2F2-8D1BBB778CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED52B48-1479-49DC-8B93-D1AA7CD04A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED52B48-1479-49DC-8B93-D1AA7CD04A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED52B48-1479-49DC-8B93-D1AA7CD04A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED52B48-1479-49DC-8B93-D1AA7CD04A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E455278-4128-4379-A2F2-8D1BBB778CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E455278-4128-4379-A2F2-8D1BBB778CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E455278-4128-4379-A2F2-8D1BBB778CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E455278-4128-4379-A2F2-8D1BBB778CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7F196F-EC33-4576-BC49-334CB750803B}
+	EndGlobalSection
+EndGlobal
